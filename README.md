@@ -39,6 +39,6 @@ Adjust the Field of View in Breath of the Wild with three different presets.
 
 ## Credits
 
-Created by **svmx116**
+Created by **Me**
 
 This mod modifies `GameRomCamera.sbactorpack`.
