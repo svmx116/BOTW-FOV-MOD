@@ -1,5 +1,5 @@
-# FOV Mod for Breath of the Wild (Wii U)
-**Not working right now!**
+# Not working right now!
+
 Adjust the Field of View in Breath of the Wild with three different presets.
 
 ---
