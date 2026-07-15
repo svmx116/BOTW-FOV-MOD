@@ -1,74 +1,44 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="UTF-8">
-  <title>FOV Mod - Breath of the Wild (Wii U)</title>
-</head>
-<body>
+# FOV Mod for Breath of the Wild (Wii U)
 
-<h1>FOV Mod for Breath of the Wild (Wii U)</h1>
+Adjust the Field of View in Breath of the Wild with three different presets.
 
-<p>Adjust the Field of View in Breath of the Wild with three different presets.</p>
+---
 
-<hr>
+## Versions
 
-<h2>Versions</h2>
+| Version | fovy Value | Effect |
+|---------|------------|--------|
+| **Wider FOV** | 0.8 | Increases field of view for a wider perspective |
+| **Narrower FOV** | -0.5 | Decreases field of view for a zoomed in look |
+| **Extreme Wide FOV** | 2.0 | Fisheye effect for a distorted wide view |
 
-<table>
-  <tr>
-    <th>Version</th>
-    <th>fovy Value</th>
-    <th>Effect</th>
-  </tr>
-  <tr>
-    <td><strong>Wider FOV</strong></td>
-    <td>0.8</td>
-    <td>Increases field of view for a wider perspective</td>
-  </tr>
-  <tr>
-    <td><strong>Narrower FOV</strong></td>
-    <td>-0.5</td>
-    <td>Decreases field of view for a zoomed in look</td>
-  </tr>
-  <tr>
-    <td><strong>Extreme Wide FOV</strong></td>
-    <td>2.0</td>
-    <td>Fisheye effect for a distorted wide view</td>
-  </tr>
-</table>
+**Only use one version at a time.**
 
-<p><strong>Only use one version at a time.</strong></p>
+---
 
-<hr>
+## Installation
 
-<h2>Installation</h2>
+### For Aroma (SDCafiine)
+`sd:/wiiu/sdcafiine/00050000101C9400/(folder with any name)/content/`
 
-<h3>For Aroma (SDCafiine)</h3>
-<pre>sd:/wiiu/sdcafiine/00050000101C9400/(folder with any name)/content/</pre>
+### For Tiramisu (Legacy SDCafiine)
+`sd:/wiiu/sdcafiine/00050000101C9400/content/`
 
-<h3>For Tiramisu (Legacy SDCafiine)</h3>
-<pre>sd:/wiiu/sdcafiine/00050000101C9400/content/</pre>
+### For BCML
+Install the folder through BCML's install tab.
 
-<h3>For BCML</h3>
-<p>Install the folder through BCML's install tab</p>
+---
 
-<hr>
+## Compatibility
 
-<h2>Compatibility</h2>
+- Wii U only
+- Breath of the Wild
+- Aroma or Tiramisu CFW
 
-<ul>
-  <li>Wii U only</li>
-  <li>Breath of the Wild</li>
-  <li>Aroma or Tiramisu CFW</li>
-</ul>
+---
 
-<hr>
+## Credits
 
-<h2>Credits</h2>
+Created by **svmx116**
 
-<p>Created by <strong>svmx116</strong></p>
-
-<p>This mod modifies <code>GameRomCamera.sbactorpack</code>.</p>
-
-</body>
-</html>
+This mod modifies `GameRomCamera.sbactorpack`.
