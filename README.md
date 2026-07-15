@@ -25,7 +25,7 @@ Adjust the Field of View in Breath of the Wild with three different presets.
 `sd:/wiiu/sdcafiine/00050000101C9400/content/`
 
 ### For BCML
-Install the folder through BCML's install tab.
+(i have not made a .bnp version yet).
 
 ---
 
